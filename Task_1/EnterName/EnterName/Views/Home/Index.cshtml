@@ -1,0 +1,58 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div class="text-center">
+    <form class="inner" method="post">
+        <div class="row">
+            <label for="name" class="display-4">Your name:</label>
+            <input type="text" name="name" id="name" required>
+        </div>
+        <div class="row">
+            <input type="submit" value="OK">
+        </div>
+    </form>
+</div>
+
+<style>
+    *{
+        box-sizing: border-box;
+    }
+    .inner{
+        max-width: 350px;
+        margin: 50px auto 0;
+        padding: 20px;
+        background: #fffdee;
+        border: 10px solid transparent;
+        color: #605756;
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    }
+    .row{
+        margin-bottom: 15px;
+    }
+    .row input[type="text"] {
+        width: 100%;
+        padding: 0 10px;
+        line-height: 35px;
+        outline: none;
+        border: 1px solid #F67CA5;
+    }
+    .display-4 {
+        padding: 10px 20px;
+        font-size: 30px;
+        width: 100%;
+    }
+    .row input[type="submit"] {
+        width: 100%;
+        padding: 10px 20px;
+        margin-top: 10px;
+        background: #F67CA5;
+        border-width: 0;
+        cursor: pointer;
+        outline: none;
+        font-size: 15px;
+        letter-spacing: 1px;
+        color: #fffdee;
+        text-transform: uppercase;
+    }
+</style>
