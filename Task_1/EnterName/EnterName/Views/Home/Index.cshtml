@@ -1,12 +1,13 @@
-﻿@{
+﻿@model EnterName.Models.Result 
+@{
     ViewData["Title"] = "Home Page";
 }
 
 <div class="text-center">
-    <form class="inner" method="post">
+    <form class="inner" method="post" asp-action="Index">
         <div class="row">
             <label for="name" class="display-4">Your name:</label>
-            <input type="text" name="name" id="name" required>
+            <input type="text" asp-for="Name" id="name" required>
         </div>
         <div class="row">
             <input type="submit" value="OK">

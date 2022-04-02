@@ -1,9 +1,10 @@
-﻿@{
+﻿@model Result
+@{
     ViewData["Title"] = "Result";
 }
 
-<div class="text-center">   
-    <h1>@ViewData["Message"]</h1>
+<div class="text-center">
+     <h1>Hello, @Model.Name !</h1>
 </div>
 
 <style>

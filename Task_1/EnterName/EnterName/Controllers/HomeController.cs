@@ -18,24 +18,16 @@ namespace EnterName.Controllers
             _logger = logger;
         }
 
-        [HttpGet]
         public IActionResult Index()
         {
             return View();
         }
 
-        /*public IActionResult Privacy()
-        {
-            return View();
-        }*/
-
         [HttpPost]
-        public IActionResult Index(string name)
+        public IActionResult Index(Result result)
         {
-            ViewData["Message"] = "Hello, " + name + "!";
-            return View("Result");
+            return View("Result", result);
         }
-
 
         [ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]
         public IActionResult Error()
