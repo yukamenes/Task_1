@@ -1,0 +1,9 @@
+﻿.text-center {
+    max-width: 350px;
+    margin: 50px auto 0;
+    padding: 20px;
+    background: #fffdee;
+    border: 10px solid transparent;
+    color: #605756;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
