@@ -23,8 +23,6 @@ C:\Users\YULIA\Desktop\Sana\Task_1\EnterName\EnterName\obj\Debug\net5.0\scopedcs
 C:\Users\YULIA\Desktop\Sana\Task_1\EnterName\EnterName\obj\Debug\net5.0\EnterName.TagHelpers.input.cache
 C:\Users\YULIA\Desktop\Sana\Task_1\EnterName\EnterName\obj\Debug\net5.0\EnterName.TagHelpers.output.cache
 C:\Users\YULIA\Desktop\Sana\Task_1\EnterName\EnterName\obj\Debug\net5.0\EnterName.RazorCoreGenerate.cache
-C:\Users\YULIA\Desktop\Sana\Task_1\EnterName\EnterName\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
-C:\Users\YULIA\Desktop\Sana\Task_1\EnterName\EnterName\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
 C:\Users\YULIA\Desktop\Sana\Task_1\EnterName\EnterName\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
 C:\Users\YULIA\Desktop\Sana\Task_1\EnterName\EnterName\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
 C:\Users\YULIA\Desktop\Sana\Task_1\EnterName\EnterName\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
@@ -38,4 +36,6 @@ C:\Users\YULIA\Desktop\Sana\Task_1\EnterName\EnterName\obj\Debug\net5.0\ref\Ente
 C:\Users\YULIA\Desktop\Sana\Task_1\EnterName\EnterName\obj\Debug\net5.0\EnterName.pdb
 C:\Users\YULIA\Desktop\Sana\Task_1\EnterName\EnterName\obj\Debug\net5.0\EnterName.genruntimeconfig.cache
 C:\Users\YULIA\Desktop\Sana\Task_1\EnterName\EnterName\obj\Debug\net5.0\EnterName.csproj.CopyComplete
-C:\Users\YULIA\Desktop\Sana\Task_1\EnterName\EnterName\obj\Debug\net5.0\Razor\Views\Home\Result.cshtml.g.cs
+C:\Users\YULIA\Desktop\Sana\Task_1\EnterName\EnterName\obj\Debug\net5.0\Razor\Views\Emoh\Index.cshtml.g.cs
+C:\Users\YULIA\Desktop\Sana\Task_1\EnterName\EnterName\obj\Debug\net5.0\Razor\Views\Emoh\Privacy.cshtml.g.cs
+C:\Users\YULIA\Desktop\Sana\Task_1\EnterName\EnterName\obj\Debug\net5.0\Razor\Views\Emoh\Result.cshtml.g.cs
